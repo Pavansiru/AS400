@@ -43,7 +43,7 @@ WHEN OPC='/'  ;
 /END-FREE     
 
 
-# DDS code usinf SDA
+# DDS code using SDA
  A*%%TS  SD  20211228  110737  PAVANS      REL-V7R4M0  5770-WDS 
  A*%%EC                                                         
  A                                      DSPSIZ(24 80 *DS3)      
